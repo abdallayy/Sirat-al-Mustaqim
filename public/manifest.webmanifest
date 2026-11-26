@@ -1,0 +1,20 @@
+{
+  "name": "الصراط المستقيم",
+  "short_name": "الصراط",
+  "description": "رفيق القرآن والحديث والصلاة والقبلة والأذكار",
+  "start_url": "./?section=prayer",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101714",
+  "theme_color": "#101714",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

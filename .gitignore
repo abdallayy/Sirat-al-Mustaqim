@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.local
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+server/subscriptions.json
+server/subscriptions.json.tmp
